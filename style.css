@@ -1,16 +1,27 @@
 body{
-    background-color: rgb(201, 242, 255);
+    background-color: rgb(255, 255, 255);
     margin-left: 0;
     margin-right: 0;
+    margin-bottom: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
-   
 }
-/*hoi*/
-header { 
-    /* margin: -1em; */
-    margin-top: -1em;
 
+header { 
+    margin-top: -1em;
+}
+
+h1 {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-left: 13em;
+
+    border-style: solid;
+    border-radius: 40px;
+    display: flex;
+    width: 12em;
+    justify-content: center;
 }
 
 h2 { 
@@ -23,21 +34,29 @@ p {
     font-size: larger;
 }
 
+strong{
+    font-size: x-large;
+    padding-bottom: 1em;
+}
+
 div {
     display: flex;
-   
-   
 }
 
 .index {
-    background-image: url("./img/Praia.do.barril!.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    
+ padding: 5em 8em 5em 8em;
+ margin-top: 4em;
+ margin-left: 3em;
+ margin-right: 3em ;
+ margin-bottom: 4em;
+ justify-content: center;
+ border-style: solid;
+ border-color:  (gray);
+ border-radius: 2em;
 }
 
-.white-bg {
-    background-color: rgb(234, 251, 255);
+.white-bg-p {
+    background-color: rgb(241, 254, 255);
     display: flex;
     margin-left: 1em;
     margin-top: 2em;
@@ -46,29 +65,61 @@ div {
     justify-content: center;
 }
 
-.white-bgmustdos {
-    background-color: rgb(239, 251, 255);
+.color-bg-bereikbaarheid {
+    background-color: rgb(241, 255, 255);
     display: flex;
     margin-right: 1em;
     margin-left: 1em;
+    margin-bottom: 5em;
     justify-content: center;
     flex-direction: column;
-    gap: -1em;
+
     padding: 3em 3em 3em 3em;
+    border-style: solid;
+    border-radius: 3em;
+    display: flex;
+    width: 20em;
+    justify-content: center;
 }
 
 .scroll-container {
-   
     overflow: auto;
     white-space: nowrap;
     padding: 2em;
+    margin-bottom: 3em;
   }
 
 
-section h3 {
-    display: inline;
-    justify-content: space-around;
+.white-bg-ilha {
+    background-color: rgb(239, 221, 221);
+    display: flex;
+
 }
+
+article {
+    margin-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+
+.white-bg-suppen {
+    background-color: rgb(241, 255, 255);
+    padding: 1em;
+    display: flex;
+    border-style:solid ;
+    border-radius: 2em;
+    margin: 2em ;
+}
+
+
+.wide-cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    padding-bottom: 1em;
+}
+
 
 
 /* section p {
@@ -79,16 +130,9 @@ section h3 {
 section img { 
     padding-top: 2em;
     padding-bottom: 2em;
-    padding-left: 1%;
-   
+    padding-left: 1em;
  }
 
-h1 {
-    padding-top: 1%;
-    padding-bottom: 1%;
-    padding-left: 1em;
-    text-align: center;
-}
 a:hover, a:active {
     color: grey;
 }
@@ -100,13 +144,12 @@ ul {
     flex-wrap: wrap;
     list-style-type: none;
     gap: 4em;
-    
 }
 
 
 nav { 
     width: 100%;
-    background-color: #fff;
+    background-color: #f2f2f2;
 }
 
 
@@ -122,10 +165,14 @@ ul li a {
     text-decoration: none;
     font-size: 1.4em;
     color: #1e1e1e;
-   
-
 }
 
+
+footer {
+    background-color: rgb(116, 116, 116);
+    /* padding: 5em;
+    padding-bottom: 3em;
+} */
 
 
 
