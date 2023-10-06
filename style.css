@@ -3,7 +3,7 @@ body{
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 header { 
@@ -170,11 +170,9 @@ ul li a {
 
 footer {
     background-color: rgb(116, 116, 116);
-    /* padding: 5em;
+    padding: 5em;
     padding-bottom: 3em;
-} */
-
-
+}
 
 
 
