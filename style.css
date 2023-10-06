@@ -162,11 +162,11 @@ ul li a {
 footer {
     background-color: rgb(181, 181, 181);
     color: white;
-    padding-bottom: 3em;
+    padding-bottom: 1em;
     padding-right: 3em;
     justify-content: center;
     text-align: center;
-    gap: 3em;
+    gap: 1em;
     display: flex;
 }
 
