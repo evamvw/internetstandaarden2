@@ -1,0 +1,13 @@
+Naam: Eva van Wissen
+Studentnummer: 500927971
+Klas: Turquoise
+Schooljaar: 1e jaar 
+
+LINK NAAR LIVE WEBSITE
+http://www.mijnlivewebsite.nl
+
+BRONVERMELDING
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. https://algarvegroepsaccommodaties.com
+3. https://www.mooistedorpjes.nl/portugal/algarve/santa-luzia/
+4. 
