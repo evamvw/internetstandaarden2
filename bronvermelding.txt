@@ -4,7 +4,7 @@ Klas: Turquoise
 Schooljaar: 1e jaar (2023/2024)
 
 LINK NAAR LIVE WEBSITE
-http://www.mijnlivewebsite.nl
+https://evamvw.github.io/internetstandaarden2/index.html
 
 BRONVERMELDING
 1. https://algarvegroepsaccommodaties.com
